@@ -3,7 +3,11 @@
 <h1 align="center">Hi there, I'm Alexandra Ivanova.</a> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanovaAM)](https://github.com/IvanovaAM/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanovaAM&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanovaAM&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanovaAM&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanovaAM&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanovaAM&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanovaAM&theme=flag_india)
 
 <!--
 **IvanovaAM/IvanovaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
