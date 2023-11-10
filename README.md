@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there, I'm Alexandra Ivanova.</a> 
-- 💬🌱✨ About me: She was very, very, very fond of programming and maybe someone else...
+<h1 align="center">Hi there, I'm Alexandra Ivanova.</h1> 
+<h3 align="left">- 💬🌱✨ About me: She was very, very, very fond of programming and maybe someone else...</h3>
+
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanovaAM&theme=flag_india)
