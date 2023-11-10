@@ -8,9 +8,7 @@
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanovaAM&theme=flag_india)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanovaAM&theme=flag_india)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanovaAM&theme=moltack)
-<h1 align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanovaAM&theme=moltack)
-</h1> 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
