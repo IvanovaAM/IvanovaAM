@@ -7,8 +7,8 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanovaAM&theme=flag_india)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanovaAM&theme=flag_india)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanovaAM&theme=flag_india)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanovaAM&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanovaAM&theme=flag_india)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanovaAM&theme=flag_india)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanovaAM&theme=flag_india)
 
