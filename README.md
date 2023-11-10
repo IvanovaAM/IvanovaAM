@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<h1 align="center">Hi there, I'm Alexandra Ivanova.</h1> 
+<h1 align="center">Hi there👋, I'm Alexandra Ivanova⚡.</h1> 
 <h3 align="left">- 💬🌱✨ About me: She was very, very, very fond of programming and maybe someone else...</h3>
 
 
