@@ -4,7 +4,7 @@
 <h3 align="left">- 💬🌱✨ About me: She was very, very, very fond of programming and maybe someone else...</h3>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanovaAM&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanovaAM&theme=moltack)
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanovaAM&theme=flag_india)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanovaAM&theme=flag_india)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanovaAM&theme=flag_india)
