@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">Hi there, I'm Alexandra Ivanova.</a> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanovaAM)](https://github.com/IvanovaAM/github-readme-stats)
+
 <!--
 **IvanovaAM/IvanovaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
