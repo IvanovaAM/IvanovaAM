@@ -10,6 +10,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanovaAM&theme=flag_india)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanovaAM&theme=flag_india)
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **IvanovaAM/IvanovaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
