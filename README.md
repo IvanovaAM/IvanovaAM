@@ -11,6 +11,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanovaAM&theme=moltack)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!--
 **IvanovaAM/IvanovaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
