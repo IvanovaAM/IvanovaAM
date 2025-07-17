@@ -25,3 +25,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanovaAM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanovaAM)](https://github.com/anuraghazra/github-readme-stats)
+#
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IvanovaAM)](https://git.io/streak-stats)
+#
+[![trophy](https://github-profile-trophy.vercel.app/?username=IvanovaAM)](https://github.com/ryo-ma/github-profile-trophy)
+#
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanovaAM&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#
+![](https://komarev.com/ghpvc/?username=IvanovaAM)
